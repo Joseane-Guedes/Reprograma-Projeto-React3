@@ -1,12 +1,31 @@
-# Terceiro Projeto de React :tada:
+# <center> :girl: Reprograma :heart: </center>
+# <center> Terceiro Projeto React ⚛️</center>
 
-## Em construção 
-Em casa devem ser criadas as features(funcionalidades) abaixo:
+### Projeto divertido desenvolvido sob coordenação da Professora Simara - Ex-aluna {reprograma}, desenvolvedora na ThoughtWorks e criadora do Podcast Quero Ser Dev.
+<br>
+<p>  <img align="center" width="1200" height="auto" src="src/assets/react3.png" alt="My cool project"/> </p>
 
-O footer com icones de redes sociais, github, nome e minibio da autora.
-Uma nova página, consumindo outra api ou arquivo interno que simule um JSON, renderizando cards na tela com (img, titulo e descricao), além disso deve permitir uma busca por input atualizando os cards na tela de acordo com o que for digitado. 
-Alterar menu inserindo nova página construída
-Todo o projeto deve estar com estilo e funcionando
+### :hammer_and_wrench: Tecnologias utilizadas:
+* Reactjs
+* HTML5
+* JavaScript
+* CSS 3
+* Axios
+* Node.js
+
+Acesse meu projeto divertido: [React](https://reprograma-projeto-react3-joseane.netlify.app/) 
+ 
+
+
+<hr/>
+<p align="center">
+Projeto feito com 💙 por Joseane Guedes & @ Reprograma
+</p>
+
+
+
+
+
 
 
 
