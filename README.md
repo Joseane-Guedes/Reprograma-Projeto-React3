@@ -1,9 +1,10 @@
 <h1 align="center"> Terceiro Projeto React ⚛️ </h1>
 
 ### Projeto divertido desenvolvido sob coordenação da Professora Simara - Ex-aluna {reprograma}, desenvolvedora na ThoughtWorks e criadora do Podcast Quero Ser Dev.
-  
-<p align='center'>
-<img src="src/assets/react3.png" alt="My cool project"/>
+<hr/>
+
+<p align="center">
+  <img width="460" height="300" src="src/assets/react3.png">
 </p>
 
 ## :hammer_and_wrench: Tecnologias utilizadas:
