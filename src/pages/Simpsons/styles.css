@@ -10,7 +10,7 @@
 
 .main-simpson .card {
   background-color: powderblue;
-  width: 320px;
+  width: 300px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -35,10 +35,11 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 1.5rem;
-  margin: 4px 2px;
+  font-size: 1rem;
+  margin: 2px 2px;
   cursor: pointer;
-  height: 100px;
+  height: 50px;
+  border-radius: 1rem;
 }
 
 @media (max-width: 768px) {
@@ -61,7 +62,7 @@
   }
 
   .main-simpson button {
-    background-color: black;
+    background-color: blue ;
     border: none;
     color: white;
     padding: 15px 32px;

@@ -4,14 +4,25 @@
   box-sizing: border-box;
 }
 
-body {
-  color: #ba7af8;
-  background: #8875fd;
-}
 
 body,
 input,
 button,
 textarea {
   font: 600 2rem Nunito, sans-serif;
+}
+
+@media screen and (min-width: 768px) {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body,
+  input,
+  button,
+  textarea {
+    font: 600 2rem Nunito, sans-serif;
+  }
 }

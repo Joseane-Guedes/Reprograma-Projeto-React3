@@ -28,7 +28,7 @@ const Search = () => {
 
       <input
       type="text"
-        placeholder="Pesquise um repositório do Github"
+        placeholder="Pesquisar repositório"
         onChange={(e) => {
           setBusca(e.target.value);
         }}
